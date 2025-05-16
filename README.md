@@ -20,8 +20,27 @@ An AI-powered facial recognition system designed to automate attendance marking.
 - **OpenCV**
 - **face_recognition (Dlib-based)**
 - **NumPy, Pandas**
-- **Tkinter / PyQt** (optional for GUI)
 - **CSV / SQLite** for data storage
 
 ## 📂 Project Structure
 
+
+
+
+## 🔧 Setup & Installation
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/elaaelfahem/SmartAI-Attendance.git
+cd SmartAI-Attendance
+## 🔧 Future Ideas
+
+GUI version with Tkinter or PyQt
+Mobile version or Flutter integration
+Anti-spoofing: prevent face-photo cheating
+Google Sheets sync
+Dashboard with graphs and stats
+##🙋‍♀️ About Me
+Developed by Ella, an engineering student passionate about AI and real-world tech solutions.
+Connect with me on LinkedIn or check out more on GitHub.
